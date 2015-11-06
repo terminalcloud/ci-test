@@ -1,0 +1,6 @@
+test:
+    context:
+        environment:
+            name: "centos6"
+            version: "1.0.0"
+    run: "test.sh"
