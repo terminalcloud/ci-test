@@ -1,4 +1,4 @@
-test:
+test_repo:
     context:
         environment:
             name: "centos6"
